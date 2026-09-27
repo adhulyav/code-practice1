@@ -1,17 +1,19 @@
-# code-practice1
-A Python program to calculate the sum and count of even numbers from 1 to a given number.
+# code1: sum of even numbers
+#---------------------------------------
+-A Python program to calculate the sum and count of even numbers from 1 to a given number.
+# Features: 
+-User input, even number detection, sum calculation, and count calculation.
+## requirements -python 3.x
+# Language: Python 
+# File: `even.sum.py`
 
-## program
--even.sum.py
-## what it does 
--Takes a number as input.
--Finds the even numbers from 1 to that number.
--calculates their sum and count.
 
-## requirements 
--python 3.x
--A web browser and github account(to view the projects)
--github codespaces or a computer with python installed(to run the program)
-
-## language
-python
+# code2: stone_paper_scissor
+#-------------------------------------------
+# stone_paper_scissor
+-A Python program to play the classic Stone-Paper-Scissors game against the computer.
+# Features:
+-User input, random computer choice, winner detection, and game result display.
+## requirements-python 3.x
+# Language:Python
+# File:`stone_paper_scissor.py`
