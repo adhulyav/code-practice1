@@ -1,5 +1,5 @@
 # code1: sum of even numbers
-#---------------------------------------
+# ---------------------------------------
 -A Python program to calculate the sum and count of even numbers from 1 to a given number.
 # Features: 
 -User input, even number detection, sum calculation, and count calculation.
@@ -9,7 +9,7 @@
 
 
 # code2: stone_paper_scissor
-#-------------------------------------------
+# -------------------------------------------
 # stone_paper_scissor
 -A Python program to play the classic Stone-Paper-Scissors game against the computer.
 # Features:
