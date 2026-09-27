@@ -9,7 +9,9 @@ A Python program to calculate the sum and count of even numbers from 1 to a give
 -calculates their sum and count.
 
 ## requirements 
--python
+-python 3.x
+-A web browser and github account(to view the projects)
+-github codespaces or a computer with python installed(to run the program)
 
 ## language
 python
