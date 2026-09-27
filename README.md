@@ -8,5 +8,8 @@ A Python program to calculate the sum and count of even numbers from 1 to a give
 -Finds the even numbers from 1 to that number.
 -calculates their sum and count.
 
+## requirements 
+-python
+
 ## language
 python
