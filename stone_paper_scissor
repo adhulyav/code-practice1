@@ -1,2 +1,17 @@
-ch=input("Enter the choice:")
-print("1.stone /n 2.paper /n scissor")
+import random
+print("choice: 1.stone 2.paper 3.scissor")
+choices=["stone","paper","scissor"]
+user=input("Enter the choice:")
+print("user choice:",user)
+computer=random.choice(choices)
+print("computer choice:",computer)
+if user==computer:
+    print("the match draw")
+elif user=="stone" and computer=="scissor":
+    print("you win, computer loss")
+elif user=="scissor" and computer=="paper":
+    print("you win, computer loss")
+elif user=="paper" and computer=="stone":
+   print("you win, computer loss")
+else:
+    print("you lose, computer win")
